@@ -10,3 +10,5 @@ You want goodies? Make PR then.
 * Yepeto (github.com/camiloibarrayepes)  (https://avatars0.githubusercontent.com/u/14959571?s=460&v=4)
 
 * gerlis18 (github.com/gerlis18) (https://avatars3.githubusercontent.com/u/22879127?s=460&v=4)
+
+* iMeriem (github.com/iMeriem) (https://avatars2.githubusercontent.com/u/11720929?s=400&u=634479bc1a497d1cd0d053964901efc34ae59e84&v=4)

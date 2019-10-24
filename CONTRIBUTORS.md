@@ -13,4 +13,6 @@ You want goodies? Make PR then.
 
 * iMeriem (github.com/iMeriem) (https://avatars2.githubusercontent.com/u/11720929?s=400&u=634479bc1a497d1cd0d053964901efc34ae59e84&v=4)
 
-* VV1266 (github.com/VV1266) (https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjchZfiiLTlAhVFwI8KHUJIBZcQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FVicky_Suman&psig=AOvVaw0USk9VawfZniO3YxUDl-M7&ust=1571978062021451)
+* VV1266 (github.com/VV1266) (https://avatars2.githubusercontent.com/u/29574874?s=460&v=4)
+
+* Sanidhya (github.com/ssingh13-rms)

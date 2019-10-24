@@ -16,3 +16,5 @@ You want goodies? Make PR then.
 * VV1266 (github.com/VV1266) (https://avatars2.githubusercontent.com/u/29574874?s=460&v=4)
 
 * Sanidhya (github.com/ssingh13-rms)
+
+* Adrianti Rusli (github.com/adriantirusli) (https://avatars0.githubusercontent.com/u/22606715?s=460&v=4)

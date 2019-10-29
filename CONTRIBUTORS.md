@@ -18,3 +18,5 @@ You want goodies? Make PR then.
 * Sanidhya (github.com/ssingh13-rms)
 
 * Adrianti Rusli (github.com/adriantirusli) (https://avatars0.githubusercontent.com/u/22606715?s=460&v=4)
+
+* Nicolas Helfer (github.com/nhelfer) (https://avatars2.githubusercontent.com/u/3625258?s=460&v=4)

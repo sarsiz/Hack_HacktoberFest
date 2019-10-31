@@ -20,3 +20,5 @@ You want goodies? Make PR then.
 * Adrianti Rusli (github.com/adriantirusli) (https://avatars0.githubusercontent.com/u/22606715?s=460&v=4)
 
 * Nicolas Helfer (github.com/nhelfer) (https://avatars2.githubusercontent.com/u/3625258?s=460&v=4)
+
+* Caroline Pettarelli (github.com/ca-pettarelli) (https://avatars2.githubusercontent.com/u/29359979?s=400&u=f03e58ea0aca0129d26d6243ce88f714780c8a99&v=4)
